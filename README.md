@@ -48,4 +48,4 @@ This repository forms part of the Fibremail email security infrastructure alongs
 
 License
 
-Personal infrastructure project for the Fibremail domain.
+Infrastructure project for the Fibremail domain.
