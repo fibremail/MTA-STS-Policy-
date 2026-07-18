@@ -1,8 +1,8 @@
-Fibremail MTA-STS
+Fibremail sub domain MTA-STS
 
 Overview
 
-This repository hosts the MTA-STS policy for the Fibremail domain.
+This repository hosts the MTA-STS policy for the Fibremail sub domain.
 
 The policy is served from:
 
